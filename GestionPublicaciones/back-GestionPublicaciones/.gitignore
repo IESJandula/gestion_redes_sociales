@@ -1,0 +1,84 @@
+# -----------------------------
+# Archivos específicos del proyecto
+# -----------------------------
+HELP.md
+
+# -----------------------------
+# Compilación de Java / Maven
+# -----------------------------
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# -----------------------------
+# Build / Distribución
+# -----------------------------
+build/
+dist/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# -----------------------------
+# Dependencias de Node
+# -----------------------------
+node_modules/
+
+# -----------------------------
+# Archivos de entorno
+# -----------------------------
+.env
+.env.*  # .env.local, .env.production, etc.
+
+# -----------------------------
+# Claves privadas y archivos sensibles
+# -----------------------------
+/src/main/resources/serviceAccountKey.json
+
+
+firebase-debug.log
+.firebase/
+.firebaserc
+
+# -----------------------------
+# Firebase Functions (si usas Cloud Functions)
+# -----------------------------
+functions/node_modules/
+functions/lib/
+functions/.env
+
+# -----------------------------
+# Caches y logs
+# -----------------------------
+.cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# -----------------------------
+# IDEs y herramientas de desarrollo
+# -----------------------------
+
+# STS (Spring Tool Suite)
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
