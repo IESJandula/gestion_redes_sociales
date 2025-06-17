@@ -1,6 +1,6 @@
 # Proyecto Integrado - Gestión de Publicaciones IES Jándula
 
-Este proyecto ha sido desarrollado como parte del módulo de Proyecto Integrado del segundo curso del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (2º DAW). Bajo la tutela del profesor Manuel Arroyo Juan, el alumno **[Tu Nombre Aquí]** ha diseñado y construido una solución web completa para la gestión de publicaciones del Instituto IES Jándula.
+Este proyecto ha sido desarrollado como parte del módulo de Proyecto Integrado del segundo curso del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (2º DAW). Bajo la tutela del profesor Manuel Arroyo Juan,los alumnos Juan manuel Garcia Flores,Jaime Araque Ruiz,Rafa Martinez Torralba han diseñado y construido una solución web completa para la gestión de publicaciones del Instituto IES Jándula.
 
 El objetivo principal del proyecto es proporcionar una herramienta digital que permita al centro educativo administrar sus publicaciones institucionales de forma sencilla, eficiente y segura. El sistema cuenta con dos vistas diferenciadas:
 
