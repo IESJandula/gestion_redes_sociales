@@ -35,7 +35,7 @@ Este repositorio contiene todo el código fuente, documentación y detalles téc
 
 **Descarga del Proyecto:**
  
-git clone https://github.com/IESJandula/gestion_publicaciones.git
+git clone [https://github.com/IESJandula/gestion_publicaciones.git](https://github.com/IESJandula/gestion_redes_sociales.git)
 
 Edita el fichero application.properties con tus datos de conexión:
 spring.datasource.url=jdbc:mysql://localhost:3306/gestionpublicaciones
@@ -47,15 +47,19 @@ npm install
 npm run dev
 El frontend se iniciará en: http://localhost:5173
 
+---
+
 ###  Galeria de imagenes
 
 ·Login-
 ![image](https://github.com/user-attachments/assets/cb812b64-5c05-4597-96ba-c296d91b2a45)
 
+---
 
 ·Vista crear publicaciones-
 ![image](https://github.com/user-attachments/assets/f4cc6e36-a8bb-41d2-977c-8765b15d8d53)
 
+---
 
 ·Vista admin-
 ![image](https://github.com/user-attachments/assets/5a63dea5-e1a6-4595-a076-7134ed7f8278)
